@@ -1,7 +1,7 @@
 # 🚧 Coming Soon: Construction Vehicle Tracker
 
 ## 🏗️ Track Every Construction Vehicle. Anytime. Anywhere.
-
+## ℹ️ Home Page (home.html)
 ### A smart tracking platform built for construction companies to monitor vehicles in real time, prevent theft, and keep customers informed.
 
 ---
