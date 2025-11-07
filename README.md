@@ -4,7 +4,7 @@ Figma - https://www.figma.com/design/9wEtqUxPzBO3tLLOdzWE5z/Gps?node-id=0-1&p=f&
 
 Live - https://gps-track.vercel.app/
 
-Loading screen - https://loadingscreen.vercel.app/
+Loading screen - https://loadingscreen-sepia.vercel.app/
 
 ## 🗓️ Päev 1
 Esimesel päeval keskendus tiim **Figma disaini loomisele**.  
