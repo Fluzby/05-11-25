@@ -17,4 +17,4 @@ Jagasin ära, kes mille eest vastutab:
 - ℹ️ *Info page* – Kerdo 
 
 ## 🗓️ Päev 3
-Kolmandal päeval keskendus koodi lõpetamisele.
+Kolmandal päeval keskendus koodi lõpetamisele. Koodi saime valmis aga ei jõudnud koode kokku panna.
