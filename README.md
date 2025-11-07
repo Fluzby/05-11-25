@@ -18,3 +18,4 @@ Jagasin ära, kes mille eest vastutab:
 
 ## 🗓️ Päev 3
 Kolmandal päeval keskendus koodi lõpetamisele.
+(update silvio kustutas home pagei ära)
