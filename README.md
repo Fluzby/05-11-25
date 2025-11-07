@@ -2,7 +2,7 @@
 
 Figma - https://www.figma.com/design/9wEtqUxPzBO3tLLOdzWE5z/Gps?node-id=0-1&p=f&t=PhSng6RxRFv3Zu5B-0
 
-Live - https://gps-track-sandy.vercel.app/
+Live - https://gps-track.vercel.app/
 
 Loading screen - https://loadingscreen-sandy.vercel.app/
 
