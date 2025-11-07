@@ -4,7 +4,7 @@ Figma - https://www.figma.com/design/9wEtqUxPzBO3tLLOdzWE5z/Gps?node-id=0-1&p=f&
 
 Live - https://gps-track-sandy.vercel.app/
 
-Loading screen - https://loadingscreen-d8ozxpwvc-silvis-projects-a3f886df.vercel.app/
+Loading screen - https://loadingscreen-sandy.vercel.app/
 
 ## 🗓️ Päev 1
 Esimesel päeval keskendus tiim **Figma disaini loomisele**.  
